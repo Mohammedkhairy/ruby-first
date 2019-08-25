@@ -17,6 +17,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'duktape'
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
+gem 'jquery-rails'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
 gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
@@ -28,6 +29,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise', '~> 4.6', '>= 4.6.2'
 gem 'paperclip', '~> 4.2.0'
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
+gem 'searchkick', '~> 4.0', '>= 4.0.2'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
